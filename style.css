@@ -1,0 +1,176 @@
+
+@media screen and (min-width: 800px) {
+  .part1{
+      padding-left: 300px;
+      padding-top: 70px;
+      align-items: center;
+      
+  }
+}
+
+
+  
+
+  @media only screen and (min-width: 768px) and (max-width:1024px) {   
+    .part-2{
+        visibility: hidden;
+       padding: 0;
+    }
+    .part1{
+      padding-left: 300px;
+      align-items: center;
+  }  
+  }
+
+
+
+  .forget{
+    padding-left: 196px;
+  }
+
+  .form-part{
+    font-size: 16px;
+    line-height: 28px;
+    padding: 4px 16px ;
+    width: 398px;
+    min-height: 28px;
+    border: unset;
+    border-radius: 4px;
+    outline-color: rgb(84 105 212 / 0.5);
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, 
+                rgba(0, 0, 0, 0) 0px 0px 0px 0px, 
+                rgba(0, 0, 0, 0) 0px 0px 0px 0px, 
+                rgba(60, 66, 87, 0.16) 0px 0px 0px 1px, 
+                rgba(0, 0, 0, 0) 0px 0px 0px 0px, 
+                rgba(0, 0, 0, 0) 0px 0px 0px 0px, 
+                rgba(0, 0, 0, 0) 0px 0px 0px 0px;
+  }
+
+  .logo-section{
+    padding: 20px;
+    padding-left: 35px;
+    margin: 20px;
+    margin-bottom: 40px;
+  }
+  .logo{
+    height: 35px;
+    
+  }
+
+  .button-section{
+    padding-left: 83px;
+  }
+
+  .button-part{
+    width: 190px;
+  }
+
+.button-part:hover,
+.button-part:focus {
+  box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+  transform: translateY(-0.25em);
+}
+
+  .sign-font{
+    font-size: 17px;
+  }
+
+
+  hr{
+    width: 405px;
+  }
+  
+
+.g-sign-in-button {
+    margin: 5px;
+    display: inline-block;
+    width: 395px;
+    height: 50px;
+    background-color: #fff;
+    color: #765829;
+    border-radius: 1px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.25);
+    transition: background-color .218s, border-color .218s, box-shadow .218s;
+}
+
+.g-sign-in-button:hover {
+    cursor: pointer;
+    -webkit-box-shadow: 0 0 3px 3px rgba(186, 201, 224, 0.3);
+    box-shadow: 0 0 3px 3px rgba(130, 144, 166, 0.3);
+}
+
+.g-sign-in-button:active {
+    background-color: #fff;
+    transition: background-color 0.2s;
+}
+
+.g-sign-in-button .content-wrapper {
+    height: 100%;
+    width: 100%;
+    border: 1px solid transparent;
+}
+
+.g-sign-in-button img {
+    width: 18px;
+    height: 18px;
+}
+
+.g-sign-in-button .logo-wrapper {
+    padding: 11px;
+    background: #fff;
+    width: 48px;
+    height: 100%;
+    border-radius: 1px;
+    display: inline-block;
+}
+
+.g-sign-in-button .text-container {
+    font-family: Roboto,arial,sans-serif;
+    font-weight: 500;
+    letter-spacing: .19px;
+    font-size: 16px;
+    line-height: 50px;
+    vertical-align: top;
+    border: none;
+    display: inline-block;
+    text-align: left;
+    width: 180px;
+}
+
+
+
+
+.part2-image{
+    padding-top: 150px;
+    width: 500px;
+    height: 600px;
+}
+
+.part-2-item{
+    padding-left: 150px;
+}
+
+.part-2-button{
+    width: 180px;
+    height: 60px;
+}
+
+
+.part-2-button:hover,
+.part-2-button:focus {
+  box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+  transform: translateY(-0.25em);
+}
+
+
+
+
+
+
+
+
+
+
+
+
